@@ -18,8 +18,6 @@ The software contains four files:
 
 I wrote this software to become more familiar with the Java coding language. This will allow me to write functional programs in Java in the future.
 
-TODO: {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 [Guess the Number Demo](https://youtu.be/w1PzEXKnCpw)
 
 # Development Environment
